@@ -43,8 +43,6 @@ namespace Artikel_kaufen
             rabatt = oldGesamt - gesamtpreis;
         }
 
-
-
         public void artikel()
         {
             while (neuerArtikel == true)
